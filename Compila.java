@@ -23,3 +23,6 @@ public class Compila {
 		JOptionPane.showMessageDialog(null,soma);
 	}
 }
+
+
+/// Irá alterar o valor dos numeros no vetor e após isto somar os valores, começando do segundo item com intervalo de 3
